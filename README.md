@@ -1,15 +1,13 @@
 # Kmbox-Net-guide
 1. Connect the Kmbox according to the picture.
-2. ![Dashboard](1._How_to_connect_Kmbox_Net.jpg)
+ ![Dashboard](1._How_to_connect_Kmbox_Net.jpg)
+3. Run WCHUSBNIC as admin on second PC.
+![Dashboard](Images/drivernet.jpg)
+7. and atfer the install Image
+![Dashboard](images/Driverinstallsucess.jpg)
+9. This massage only appears when you install the driver for the first time.
 
-
-3. Run WCHUSBNIC as admin on second PC Image  ![Dashboard](1._How_to_connect_Kmbox_Net.jpg)
-  
-  
-
-7. and atfer the install Image  ![Dashboard](images/Driverinstallsucess.jpg) This massage only appears when you install the driver for the first time.
-
-8. Go On your Second Pc Windows Setting search network and Internet look for you Kmbox Image and set this Image (Enter here)
+10. Go On your Second Pc Windows Setting search network and Internet look for you Kmbox Image and set this Image (Enter here)
 
 
 IP address: 192.168.2.100
