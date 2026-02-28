@@ -7,7 +7,7 @@
 
 9. This massage only appears when you install the driver for the first time.
 
-10. Go On your Second Pc Windows Setting search network and Internet look for you Kmbox Image and set this Image
+10. Go On your Second Pc Windows Setting search network and Internet look for you Kmbox and set this
 11. ![Dashboard](Images/Enterhere.jpg)
 
 IP address: 192.168.2.100
