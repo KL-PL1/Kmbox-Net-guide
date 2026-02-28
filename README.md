@@ -2,7 +2,7 @@
 If this is your first time using Kmbox NET and didn't flash it with latest Firmware check [Kmbox-Net-Flash-guide.](https://github.com/KL-PL1/Kmbox-Net-Flash-guide.)
 
 1. Connect the Kmbox according to the picture. ![Dashboard](1._How_to_connect_Kmbox_Net.jpg)
-2. Run WCHUSBNIC as admin on second PC.
+2. Download and run WCHUSBNIC as admin on second PC.
 3. ![Dashboard](Images/drivernet.jpg)
 4. and atfer the install this should show up.
 5. ![Dashboard](Images/Driverinstallsuccess.jpg)
