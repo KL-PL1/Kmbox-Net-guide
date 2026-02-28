@@ -1,7 +1,9 @@
 # Kmbox-Net-guide
 1. Connect the Kmbox according to the picture. ![Dashboard](1._How_to_connect_Kmbox_Net.jpg)
-2. Run WCHUSBNIC as admin on second PC. ![Dashboard](Images/drivernet.jpg)
-7. and atfer the install Image ![Dashboard](images/Driverinstallsucess.jpg)
+2. Run WCHUSBNIC as admin on second PC.
+3. ![Dashboard](Images/drivernet.jpg)
+4. and atfer the install this should show up.
+5. ![Dashboard](images/Driverinstallsuccess.jpg)
 
 9. This massage only appears when you install the driver for the first time.
 
