@@ -4,16 +4,8 @@
 3. ![Dashboard](Images/drivernet.jpg)
 4. and atfer the install this should show up.
 5. ![Dashboard](Images/Driverinstallsuccess.jpg)
-
-9. This massage only appears when you install the driver for the first time.
-
-10. Go On your Second Pc Windows Setting search network and Internet look for you Kmbox and set this
-11. ![Dashboard](Images/Enterhere.jpg)
-
-IP address: 192.168.2.100
-Subnet mask: 255.255.255.0
-Leave the other fields empty and click OK
-
-4. How the kmbox should look like on your second PC now Image (How it should look like)
-
-You are Ready to use Kmbox on your dma cheat.
+6. This massage only appears when you install the driver for the first time.
+7. Go On your Second Pc Windows Setting search network and Internet look for you Kmbox and set this ![Dashboard](Images/Enterhere.jpg)
+8. Leave the other fields empty and click OK
+9. How the kmbox should look like on your second PC now ![Dashboard](Images/Howitshouldlooklike.jpg)
+10. You are Ready to use Kmbox on your dma cheat.
