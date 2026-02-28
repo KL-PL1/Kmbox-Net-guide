@@ -7,7 +7,7 @@
   
   
 
-7. and atfer the install Image  ![Dashboard](Images/Driver install success.jpg) This massage only appears when you install the driver for the first time.
+7. and atfer the install Image  ![Main Dashboard](images/Driver install sucess.jpg) This massage only appears when you install the driver for the first time.
 
 8. Go On your Second Pc Windows Setting search network and Internet look for you Kmbox Image and set this Image (Enter here)
 
